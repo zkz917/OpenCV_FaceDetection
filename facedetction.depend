@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1470360804 source:c:\users\zsf\documents\facedetction\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
